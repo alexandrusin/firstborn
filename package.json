@@ -1,0 +1,23 @@
+{
+  "name": "glorytothefirstborn",
+  "version": "1.0.0",
+  "description": "team management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "management"
+  ],
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/alexandrusin/firstborn.git"
+  },
+  "author": "Alex Sin",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
